@@ -1,4 +1,4 @@
-This project includes an implementation of an intelligent voice recognition assistant for Desktop where functionality on current existing applications on other platforms is compared.
-Voice Assistant helps the end user to communicate end user with voice and it also responds to the voice commands of the user. It needs Internet connectivity. 
+This project includes an implementation of an intelligent voice assistant for Desktop.
+Voice Assistant helps the user to communicate with computer using voice commands and it also responds to the commands of the user. It needs Internet connectivity. 
 
-This project is written in Python Programming Language and provide personal assistant using voice recognition or text mode operation. This program includes the functions and services of: location services, youtube service, opening various apps music player service, checking weather, Google searching engine, Wikipedia searching engine.
+This project is written in Python Programming Language and performs some tasks using voice commands. This program includes the functions and services of: location services, youtube service, opening various apps, music player service, checking weather, Google search, Wikipedia search.
